@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SceneObject
+  - BlueFlag
+  - Green
+  - Orange
+  - Blue
+  - Yellow
+  - Billion
+  - Wall
+  - Spawner
+  - Upgrade
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 246977311
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Billions
+    uniqueID: 3066954199
+    locked: 0
+  - name: Spawners
+    uniqueID: 2399852003
+    locked: 0
+  - name: Flags
+    uniqueID: 3258690201
+    locked: 0
+  - name: UI
+    uniqueID: 3221193575
+    locked: 0
